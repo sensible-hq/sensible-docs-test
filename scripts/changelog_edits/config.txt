@@ -1,3 +1,0 @@
-# tab delimited list of replacements to make in changelogs
-old text	new text
-old text2	newtext2
